@@ -1,0 +1,4 @@
+out: kernel.bin
+format: plain
+arch: 0
+src: kernel.ces

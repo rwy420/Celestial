@@ -1,0 +1,7 @@
+void a(int8 b) {
+
+}
+
+void _main() {
+	a(12);
+}
